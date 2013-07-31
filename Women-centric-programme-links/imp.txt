@@ -1,0 +1,59 @@
+********** Ruby on rails***********
+https://rubymonks.com
+https://github.com
+https://railsgirls.com
+https://railsbridge.org
+https://railsgirlssummerofcode.com
+https://codeacdemy.com
+IRC --- freenode.net, #rubyonrails , #ruby
+
+**********OPW******************
+live.gnome.org/ - search for Outreach Program for Women
+bugzilla.gnome.org
+IRC- irc.gnome.org(or irc.gimp.net) - important channels for newcomers/girls: #opw, #gnome-women, #gnome-hackers, #soc, #gnome-love
+
+
+
+*******Imp IRC channels *********
+IRC --- #fsmk , #github , #opw
+
+
+************* Hardware***********
+
+arduino
+kscst-karnataka state council for science and technology
+freedom hardware
+raspberrypi
+
+
+********n IISC internships **********
+CSA
+SIP
+JNCASR
+IAS
+
+******** Video Tutorials links *****
+lynda.com/github
+lynda.com/ruby
+lynda.com/rubyonrails
+lynda.com/php
+lynda.com/python
+peecode/ruby
+peecode/rubuonrails
+evanto
+pluralsite.com
+youtube.com
+
+************************Online courses************
+edx.org
+coursera.org
+venture labs
+udacity
+ranksheet.com
+
+******************ITEC*************************
+
+itec_bangalore@yahoogroups.com
+www.itec.co.in
+forumforithi@googlegroups.com
+
